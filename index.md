@@ -1,3 +1,16 @@
-# Welcome to my blog
+# Bienvenido al sitio estatido @santilomb aprende **jekyll** en **github**
 
-I'm glad you are here. I plan to talk about ...
+En esta pagina voy a poner un poco de contenido markdown para que sea renderizado por jekyll.
+[Logo Jekyll](https://scriptedtea.com/assets/images/posts/jekyll_logo.png)
+
+### Un poco de Lorem Ipsum
+
+  >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nibh augue, scelerisque non mattis a, tincidunt eu libero. Aenean faucibus at dui vel vehicula. Vivamus posuere blandit tortor, eu aliquet sem lobortis non. Cras vel ipsum vitae mi varius finibus quis id libero. Quisque vel erat nec nulla vestibulum pretium ac eu massa. Quisque sollicitudin vestibulum sem at vulputate. Duis eleifend pretium lacus, eu convallis erat pharetra sit amet. Phasellus a elit a massa consequat molestie eu sit amet augue. Aliquam id urna eget eros consequat placerat.
+
+  Pellentesque bibendum massa venenatis, congue mauris id, facilisis massa. Pellentesque commodo justo nec placerat sagittis. Maecenas vitae interdum lorem, vel ornare enim. Quisque sagittis neque massa, sit amet consectetur augue ullamcorper at. Vivamus quis metus a mi sagittis posuere. Sed vel risus enim. Nunc a quam tellus.
+
+  Nulla sollicitudin est ut mauris tempus, a elementum neque rhoncus. Nam eu sapien eget elit consectetur sodales. Curabitur rhoncus ipsum sed dui egestas vehicula ac vitae mauris. Duis eu tellus a massa dictum feugiat sed eu metus. Nam pulvinar convallis sapien, sit amet commodo risus. Curabitur accumsan nisi vitae porttitor tincidunt. Cras lacinia nisi fringilla nisl fermentum, vitae aliquet ipsum vehicula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tristique efficitur enim at sagittis. Sed nec lorem nisl. Sed faucibus quam vel augue dignissim posuere. Suspendisse potenti. Sed vel libero nec ante mattis iaculis. Suspendisse potenti. Etiam id sapien ut turpis feugiat euismod.
+
+  > Aliquam ut pulvinar diam, ut euismod dolor. Aliquam convallis rhoncus elit, non scelerisque neque luctus eu. Nulla varius orci fringilla mauris tempor cursus. Etiam metus nunc, rutrum pretium viverra in, sodales nec libero. Mauris malesuada nisl diam, in volutpat turpis auctor id. Pellentesque consectetur, est id iaculis viverra, neque risus euismod leo, nec suscipit erat elit ut risus. Mauris quis lacus in dui eleifend tincidunt. Proin suscipit massa a ligula porttitor pretium. Maecenas eget neque vel augue ultricies ultrices. Praesent aliquam pretium lacus, sit amet sollicitudin ante fermentum sit amet.
+
+  Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer imperdiet semper eleifend. Nunc libero diam, lacinia in dolor vel, efficitur condimentum lorem. Nam non efficitur eros. Ut rhoncus, tellus ut elementum posuere, nibh purus mattis felis, eget rutrum orci lacus dapibus enim. Suspendisse gravida vel neque quis interdum. Praesent aliquet ex vel dui volutpat, nec sollicitudin dolor tincidunt. Integer a efficitur erat. Nullam et ligula gravida, gravida sapien sit amet, pellentesque ligula. Etiam rutrum molestie ornare. Nunc augue metus, lacinia in faucibus a, pharetra ac est. Nullam ac ultrices lacus. Vestibulum eu venenatis diam, vel scelerisque sem. Pellentesque venenatis nisl augue, sit amet dictum neque iaculis quis.
